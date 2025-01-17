@@ -1,0 +1,7 @@
+blocks connected to eachother 
+each block has data, and next pointers adress properties.
+entire list begins with a head node and ends with tail.
+since a dt has to keep the address of list type we declare a dt of that kind too.
+
+
+update 
