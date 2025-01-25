@@ -1,0 +1,8 @@
+# windows precaustion
+*.exe
+./*/*/*.exe
+
+# linux precaustions
+
+*.out
+./*/*/*.out
